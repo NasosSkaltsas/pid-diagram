@@ -1,1 +1,1 @@
-<img width="723" height="850" alt="image" src="https://github.com/user-attachments/assets/061a7117-5ecc-4826-a424-218f9a315f50" />
+<img width="877" height="1043" alt="pid-project-overview" src="https://github.com/user-attachments/assets/a777e264-ef14-4ebc-bb27-0cb59f6b3dc2" />
