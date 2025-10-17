@@ -1,0 +1,12 @@
+ultralytics
+pytesseract
+opencv-python
+numpy
+pandas
+networkx
+scikit-learn
+matplotlib
+google
+json
+dotenv
+prefect

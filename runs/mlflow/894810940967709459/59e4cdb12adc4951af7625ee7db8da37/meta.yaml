@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Administrator/Desktop/PID_PROJECT/runs/mlflow/894810940967709459/59e4cdb12adc4951af7625ee7db8da37/artifacts
+end_time: 1760468998049
+entry_point_name: ''
+experiment_id: '894810940967709459'
+lifecycle_stage: active
+run_id: 59e4cdb12adc4951af7625ee7db8da37
+run_name: pid_yolo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760468624367
+status: 3
+tags: []
+user_id: Administrator

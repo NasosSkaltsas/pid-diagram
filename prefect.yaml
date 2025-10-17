@@ -1,0 +1,13 @@
+# prefect.yaml
+name: pid-project
+prefect-version: ">=2.14.0"
+
+deployments:
+  - name: pid-pipeline
+    entrypoint: "flows/pid_pipeline.py:pid_pipeline"
+    entrypoint: "./flows/pid_pipeline.py:pid_pipeline"
+    parameters:
+      image_path: "C:\\Users\\Administrator\\Desktop\\PID_PROJECT\\data\\test\\images\\test_pid.png"
+    work_pool:
+      name: "agent01"
+    tags: ["pid-system"]

@@ -1,0 +1,8 @@
+[
+  {
+    "component": "S15006",
+    "observed_value": 498.7,
+    "timestamp": "2025-10-15T10:13:00+00:00",
+    "expected_range": "101.0 - 104.0 psi"
+  }
+]

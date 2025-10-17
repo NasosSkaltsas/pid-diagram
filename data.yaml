@@ -1,0 +1,15 @@
+train: ./data/train/images
+val: ./data/valid/images
+test: ./data/test/images
+nc: 4
+names:
+- compensator
+- pressure
+- valve
+- yaxis
+# roboflow:
+#   workspace: nasos
+#   project: pid_detection_v2-vd2bo
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/nasos/pid_detection_v2-vd2bo/dataset/1
